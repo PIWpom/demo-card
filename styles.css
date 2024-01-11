@@ -125,6 +125,7 @@ button:hover {
 
 h2 {
     color: var(--text-color-black);
+    font-weight: 800;
     margin-bottom: 1rem;
     cursor: pointer;
     transition: all 0.2s ease-in-out;
